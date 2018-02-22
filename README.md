@@ -4,9 +4,6 @@ DiversityNet is a benchmarking platform to support research on molecule generati
 
 For more details, please refer to our Authorea paper: [DiversityNet: a collaborative benchmark for generative AI models in chemistry](https://www.authorea.com/users/226673/articles/285209-diversitynet-a-collaborative-benchmark-for-generative-ai-models-in-chemistry) .
 
-See also the Texygen paper: [Texygen: A Benchmarking Platform for Text Generation Models](https://arxiv.org/abs/1802.01886) by Yaoming Zhu et al. 2018, on which this code is based.
-
-
 Should you have any questions and enquiries, please feel free to contact us on [Telegram](https://t.me/joinchat/Go4mTw0drJBrCdal0JWu1g) or otherwise Mostapha Benhenda (mostaphabenhenda [AT] gmail.com).
 
 ## Requirement
@@ -64,26 +61,7 @@ More detailed documentation for the platform and code setup is provided [here](d
 
 ## Evaluation Results
 
-BLEU on image COCO caption test dataset:
-
-|       | SeqGAN | MaliGAN | RankGAN | LeakGAN | TextGAN      | MLE |
-|-------|--------|---------|---------|---------|--------------|--------------|
-| BLEU2 | 0.745  | 0.673   | 0.743   | 0.746   | 0.593        | 0.731        |
-| BLEU3 | 0.498  | 0.432   | 0.467   | 0.528   | 0.463        | 0.497        |
-| BLEU4 | 0.294  | 0.257   | 0.264   | 0.355   | 0.277        | 0.305        |
-| BLEU5 | 0.180  | 0.159   | 0.156   | 0.230   | 0.207        | 0.189        |
-
-Mode Collapse (Self-BLEU):
-
-|            | SeqGAN | MaliGAN | RankGAN | LeakGAN | TextGAN       | MLE  |
-|------------|--------|---------|---------|---------|---------------|--------------|
-| BLEU2      | 0.950  | 0.918   | 0.959   | 0.966   | 0.942         |0.916         |
-| BLEU3      | 0.840  | 0.781   | 0.882   | 0.913   | 0.931         |0.769         |
-| BLEU4      | 0.670  | 0.606   | 0.762   | 0.848   | 0.804         |0.583         |
-| BLEU5      | 0.489  | 0.437   | 0.618   | 0.780   | 0.746         |0.408         |
-
-More detailed benchmark settings and evaluation results are provided [here](docs/evaluation.md).
-
+Coming soon 
 ## Reference
 
 @article{diversitynet2018,<br>
