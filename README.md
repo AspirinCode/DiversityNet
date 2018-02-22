@@ -69,6 +69,7 @@ Coming soon
 &nbsp;&nbsp;&nbsp;&nbsp;  author={Mostapha Benhenda and Esben Jannik Bjerrum,...},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  journal={Authorea preprint},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  year={2018}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  url={https://www.authorea.com/users/226673/articles/285209-diversitynet-a-collaborative-benchmark-for-generative-ai-models-in-chemistry}<br>
 }
 
 This code is based on Texygen (https://github.com/geek-ai/Texygen). Many thanks to [Geek.AI](http://geek.ai/)
